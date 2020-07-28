@@ -1,0 +1,15 @@
+.Blocks {
+  height: 200px;
+  width: 200px;
+  border: 1px solid black;
+  margin: 0 auto;
+}
+#black {
+  background: black;
+}
+#red {
+  background: red;
+}
+#blue {
+  background: blue;
+}
